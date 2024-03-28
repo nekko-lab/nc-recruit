@@ -1,6 +1,6 @@
 # Network Infrastructure Team新入部員募集
 
-Network Infrastructure Team（以降NI Team）はネットワークコンテンツ研究会のヒモです。
+Network Infrastructure Team（以降NI Team）はネットワークコンテンツ研究会のネットワークインフラ開発部門です。
 主に「おもしろプライベートクラウド開発プロジェクト NekkoCloud」をはじめとするマルチスタック開発を行います。
 
 [NekkoCloud Kickoff MTG 資料はこちら][NekkoCloudKickoffMTG]
