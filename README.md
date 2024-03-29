@@ -3,7 +3,8 @@
 Network Infrastructure Team（以降NI Team）はネットワークコンテンツ研究会のネットワークインフラ開発部門です。
 主に「おもしろプライベートクラウド開発プロジェクト NekkoCloud」をはじめとするマルチスタック開発を行います。
 
-[NekkoCloud Kickoff MTG 資料はこちら][NekkoCloudKickoffMTG]
+<!-- [NekkoCloud Kickoff MTG 資料はこちら][NekkoCloudKickoffMTG] -->
+~~NekkoCloud Kickoff MTG 資料はこちら~~
 
 新入部員募集中です。
 
@@ -175,7 +176,8 @@ Discord上にて簡単な面談を行います。
 
 ## 参考資料
 
-- [NekkoCloudKickoffMTG]
+<!-- - [NekkoCloudKickoffMTG] -->
+- ~~NekkoCloudKickoffMTG~~
 - [Miku's Origin]
 - [CIT_VLLab_PR]
 - [CIT_VLLab]
@@ -188,7 +190,7 @@ Discord上にて簡単な面談を行います。
 - [アプリケーション開発におけるフロントエンドとバックエンドの違いは何ですか?]
 - [ISUCON公式ブログ]
 
-[NekkoCloudKickoffMTG]: https://github.com/cit-nclab/nekko-cloud/tree/add-project-description
+<!--  [NekkoCloudKickoffMTG]: https://github.com/cit-nclab/nekko-cloud/tree/add-project-description -->
 [Miku's Origin]: https://mikusorigin.com/
 [CIT_VLLab_PR]: https://twitter.com/CIT_VLLab_PR
 [CIT_VLLab]: https://twitter.com/CIT_VLLab
