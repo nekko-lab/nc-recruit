@@ -59,7 +59,7 @@ Discord上にて簡単な面談を行います。
 
 津田沼祭にて部員のポスター展示及びNekkoCloudのプロトタイプに関する資料展示を行いました。
 
-![fig1](NekkoCloudポスター.pdf "津田沼祭展示ポスター")
+![fig1](NekkoCloud_mark1.png "津田沼祭展示ポスター")
 
 ---
 
