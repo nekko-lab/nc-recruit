@@ -102,7 +102,7 @@ SRE部門の役割は多岐にわたり、NekkoCloudで動作するサービス�
 
 主なサービス: NekkoCloud, Proxmox VE  
 使用ソフト: Nextcloud, ClickUp, Discord, Draw.io, テキストエディタ  
-技術スタック: Kubernetes, Docker, Terraform, Go, Python, CI/CD, Database, Storage, git  
+技術スタック[^3]: Kubernetes, Docker, Terraform, Go, Python, CI/CD, Database, Storage, git  
 歓迎するスキル: Linux OS, ネットワークの知識, VMの使用経験, *aaSの使用経験
 
 - 参考リンク
@@ -128,7 +128,7 @@ NekkoCloudはマルチリージョンクラウドです。
 
 主なサービス: 物理サーバ, 物理ネットワーク, OS, コアネットワーク  
 歓迎するリソース[^2]: 計算機リソース（オンプレミス環境）, 光回線  
-技術スタック: Linux OS, C/C++, eBPF, Rust, ネットワークの知識, オンプレに対するロマン, NekkoCloudのリージョンに参加する意欲  
+技術スタック[^3]: Linux OS, C/C++, eBPF, Rust, ネットワークの知識, オンプレに対するロマン, NekkoCloudのリージョンに参加する意欲  
 
 - 参考リンク
   - [低レイヤ技術を間接的に仕事で生かしてきた経験の共有。元Linuxカーネル開発技術者の場合]
@@ -142,7 +142,7 @@ NekkoCloudはマルチリージョンクラウドです。
 
 主なサービス: NextCloud, Minecreft Server, Palworld Server, Discord Bot, NI Team 紹介サイト  
 使用ソフト: Nextcloud, ClickUp, Discord, Draw.io, Figma  
-技術スタック: Docker, Go, JavaScript/TypeScript, Next.js, Python, Java, Kotlin, NGINX, Apache, Database, git  
+技術スタック[^3]: Docker, Go, JavaScript/TypeScript, Next.js, Python, Java, Kotlin, NGINX, Apache, Database, git  
 
 - 参考リンク
   - [アプリケーション開発におけるフロントエンドとバックエンドの違いは何ですか?]
@@ -161,7 +161,7 @@ Webサイトのデザイン・制作を担当します。
 
 主なサービス: NI Team 紹介サイト  
 使用ソフト: Figma, Draw.io  
-技術スタック: HTML, CSS, JavaScript/TypeScript, React, Next.js, Astro, git
+技術スタック[^3]: HTML, CSS, JavaScript/TypeScript, React, Next.js, Astro, git
 
 - 参考リンク
   - [アプリケーション開発におけるフロントエンドとバックエンドの違いは何ですか?]
@@ -180,7 +180,7 @@ NI Team全体の開発力を底上げする縁の下の力持ちとして、活�
 
 主なサービス: NekkoCloud, Discord
 使用ソフト: Nextcloud, ClickUp, Discord, Draw.io, Figma  
-技術スタック: SREやDevOpsなど最新の開発に関する知見, OSSからプロビジョニングツールなどへの深い知識, git  
+技術スタック[^3]: SREやDevOpsなど最新の開発に関する知見, OSSからプロビジョニングツールなどへの深い知識, git  
 歓迎するスキル: GCP/AWSの使用経験, Linux OS, ネットワークの知識
 
 - 参考リンク
@@ -260,3 +260,4 @@ Discord上にて簡単な面談を行います。
 
 [^1]: SRE(Site Reliability Engineering)が本来の名称です。私たちはIaaSが普及する昨今、数多の会社や開発チームで十人十色のSREを見てきました。そして感じたのは、「SREという概念は肥大化しすぎている」ということです。であるならば、SREという言葉の定義も変化していくべきだと考えました。NI TeamのSRE部門ではSiteに限定せず、すべてのServiceに対してSREを導入していく覚悟で、面白く楽しいクラウド開発を実践しています。
 [^2]: NI Teamでは、NekkoCloudを支えるリージョン参加者募集中です。家に余っている計算機リソースを提供して、一緒にNekkoCloudを大きくしていきましょう。
+[^3]: ここに書いてある内容は、一人の部員が持っている知識ではなく、このプロジェクトに携わる部員がどれか一つでも持っていれば良いというものです。なので、今はその技術スタックが自分の中に無くても心配は要りません。プロジェクトに合わせて、自分が持ち合わせていない技術スタックも勉強していきましょう。
